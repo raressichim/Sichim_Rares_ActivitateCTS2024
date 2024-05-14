@@ -1,6 +1,6 @@
 package observer_dp.main;
 
-import observer_dp.observer.Autobuz;
+import observer_dp.subiect.Autobuz;
 import observer_dp.observer.Client;
 import observer_dp.subiect.Subject;
 import observer_dp.subiect.Tramvai;

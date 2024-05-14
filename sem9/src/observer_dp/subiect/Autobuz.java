@@ -1,6 +1,5 @@
-package observer_dp.observer;
+package observer_dp.subiect;
 
-import observer_dp.subiect.Subject;
 
 public class Autobuz extends Subject {
     @Override
